@@ -7,7 +7,7 @@
         Atualmente estou aprendendo a programar.<br>
         Com objetivo de no futuro ser um profissional Full Stack.<br>
     </i><br>
-    <a href="">
+    <a href="https://www.linkedin.com/in/marcus-vinicius-da-silveira-silva-b36a50273/" target="_blank">
         <img src="https://img.shields.io/badge/LinkedIn-blue?style=flat-square&logo=linkedin" alt="LinkedIn">
    
 </p>
