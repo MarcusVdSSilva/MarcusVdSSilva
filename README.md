@@ -1,5 +1,4 @@
-<i class="devicon-adonisjs-original "></i>
-<h1 align="center"><img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"> Olá, pessoal <img src="https://github.com/wervlad/wervlad/assets/24524555/766d336d-b87d-44ba-807c-c51de2bc6b4d" width="28px" alt="👋"></h1>
+
 
 <p align="center">
     <b>Bem vindos a minha pagina do GitHub</b><br><br>
@@ -19,31 +18,26 @@
 
 ### Linguagens
 <div align="center" valign="top"><br>
- <img align="center" alt="React" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>         
+ <img align="center" alt="React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>         
                     
 </div>
 
 
 ### Tecnologias & Frameworks
 <div align="center" valign="top"><br>
- <img align="center" alt="HTML5" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>   
- <img align="center" alt="CSS3" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>   
- <img align="center" alt="MYSQL" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>   
-                    
     
-     
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+ <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original-wordmark.svg"/>   
+ <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original-wordmark.svg"/>   
+ <img align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>   
+                    
 </div>
 
-[![HTML5](https://img.shields.io/badge/html5-black?style=for-the-badge&logo=html5)](https://hub.docker.com/u/wervlad)
-[![CSS3](https://img.shields.io/badge/css3-black?style=for-the-badge&logo=css3)](https://hub.docker.com/u/wervlad)
+### Sistemas Operacionais
+<div align="center" valign="top"><br>
+<img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+<img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
 
-
-### S.O
-![Linux](https://img.shields.io/badge/linux-black?style=for-the-badge&logo=Linux)
-![Windows](https://img.shields.io/badge/Windows-black?style=for-the-badge&logo=Windows)
-
-</div>
+</div><br><br>
 
 <div align="center">
   <a href="https://github.com/duribeiro">
