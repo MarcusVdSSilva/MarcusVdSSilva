@@ -4,7 +4,7 @@
 <hr>
 
 <div align="center">  
-  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcusvdssilva&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF4&text_color=c9d1d9&bg_color=000000" alt="Marcelo github status" /> 
+  <img width="49%" height="195px" src="https://github-readme-stats.vercel.app/api?username=marcusvdssilva&show_icons=true&count_private=true&hide_border=true&title_color=00BFFF&icon_color=00BFFF4&text_color=c9d1d9&bg_color=000000" alt="Marcus github status" /> 
     
   <img width="44%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvdssilva&layout=compact&hide_border=true&title_color=00BFFF&text_color=FFFFFF&bg_color=000000" alt="Linguagens mais usadas" />
 </div>
@@ -22,24 +22,77 @@
 
 ### Linguagens
 <div align="center" valign="top"><br>
- <img align="center" alt="React" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>         
+ <img align="center" alt="Java" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original-wordmark.svg"/>   
+<!--
+   <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
+
+    <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
+
+     <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+
+    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+  -->
                     
 </div>
 
 
-### Tecnologias & Frameworks
+### Frameworks
+<div align="center" valign="top"><br>
+<!--
+    
+     <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+
+    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+
+    <img align="center" alt="Jquery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+
+     <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+
+    <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+
+     <img align="center" alt="Vuejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"/>
+
+    <img align="center" alt="Webpack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
+
+     <img align="center" alt="AngularJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
+    
+                    
+    </div>
+-->
+
+
+### Tecnologias
 <div align="center" valign="top"><br>
     
  <img align="center" alt="HTML5" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"/>   
+ 
  <img align="center" alt="CSS3" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"/>   
+ 
  <img align="center" alt="MYSQL" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg"/>   
-                    
-</div>
+
+  <img align="center" alt="GitHub" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg"/>
+
+ <img align="center" alt="Git" height="80" width="80" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original-wordmark.svg"/>
+
+ <img align="center" alt="VSCODE" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg"/>
+
+ <img align="center" alt="Canva" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg"/>
+
+<!--
+  <img align="center" alt="Wordpress" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wordpress/wordpress-original.svg"/>
+
+  -->
+
+ </div>
 
 ### Sistemas Operacionais
 <div align="center" valign="top"><br>
-<img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+
+  <img align="center" alt="windows" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg"/>
+  
 <img align="center" alt="linux" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"/>
+
+<img align="center" alt="Android" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg"/>
 
 </div><br><br>
 <hr>
