@@ -28,38 +28,33 @@
    <img align="center" alt="JS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg"/>
 
 <img align="center" alt="PHP" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg"/>
-<!--
-     <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
-
-    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
-  -->
-                    
+         
 </div>
 
-<!--
+
 ### Frameworks
 <div align="center" valign="top"><br>
 
     
-     <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
+ <img align="center" alt="Bootstrap" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original-wordmark.svg"/>
 
-    <img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
+<!--<img align="center" alt="React" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"/>
 
-    <img align="center" alt="Jquery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
+<img align="center" alt="Jquery" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jquery/jquery-plain-wordmark.svg"/>
 
-     <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
+ <img align="center" alt="NodeJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg"/>
 
-    <img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
+<img align="center" alt="Laravel" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg"/>
 
-     <img align="center" alt="Vuejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"/>
+ <img align="center" alt="Vuejs" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-plain-wordmark.svg"/>
 
-    <img align="center" alt="Webpack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
+<img align="center" alt="Webpack" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/webpack/webpack-original.svg"/>
 
-     <img align="center" alt="AngularJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>
-    
-                    
-    </div>
--->
+ <img align="center" alt="AngularJS" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg"/>-->
+
+                
+</div>
+
 
 
 ### Tecnologias
@@ -130,6 +125,23 @@
     <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcusvdssilva&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+
+
+
+      ______________________________________________________________________________________________________________________________________
+
+
+LINGUAGENS
+
+
+     <img align="center" alt="Kotlin" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg"/>
+
+    <img align="center" alt="Python" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg"/>
+
+
+
+
 
 
 
